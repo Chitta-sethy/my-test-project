@@ -14,7 +14,6 @@ const AboutPage = () => {
       <About />
       <Content />
       <Testimonials />
-      {/* <Appointment /> */}
     </>
   );
 };
