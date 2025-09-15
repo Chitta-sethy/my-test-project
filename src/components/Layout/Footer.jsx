@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="mx-auto grid max-w-6xl grid-cols-1 gap-8 md:grid-cols-3">
         {/* Column 1: Website name and paragraph */}
         <div>
-          <h1 className="text-2xl font-bold text-green-900">MEDISERVICES</h1>
+          <h1 className="text-2xl font-bold text-green-900">Mediservices</h1>
           <p className="mt-2 text-green-700">
             We provide reliable healthcare solutions to ensure your well-being
             and peace of mind.
@@ -58,6 +58,9 @@ const Footer = () => {
             </li>
           </ul>
         </div>
+      </div>
+      <div>
+        <hr className="bg-gray-400" />
       </div>
     </footer>
   );

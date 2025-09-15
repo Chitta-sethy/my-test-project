@@ -105,7 +105,7 @@ const Navbar = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/store" className="" onClick={toggleMenu}>
+                  <Link href="#" className="" onClick={toggleMenu}>
                     <Button>
                       <Store />
                       Find Store
